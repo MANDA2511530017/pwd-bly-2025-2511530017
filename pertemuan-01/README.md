@@ -1,10 +1,7 @@
-# pwd-bly-2025-2511530017
-
-hari ini saya <br>
-<ol>
-<li> menambahkan index.html secara otomatis disetiap folder<li>
-</ol>
- ![Logo ISBAL](logoisbal.png)
-
- git config --glob al user.email "2511530017@mahasiswa.atmaluhur.ac.id"
- git config
+# 2511530017-PWD-BLY-2025
+Repository Latihan Pertemuan-1 sampai dengan Pertemuan-16<br>
+Matakuliah Pemrograman Web Dasar<br>
+Kelompok {kelompok}<br>
+Tahun Ajaran 2025/2026
+Semester Gasal<br><br>
+![Logo ISBAL](logoisbal.png)
