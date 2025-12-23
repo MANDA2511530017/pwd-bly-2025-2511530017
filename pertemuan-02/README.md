@@ -16,4 +16,6 @@ belajar
 <li>mengisi main untuk section home, about, kontak</li>
 <li>mengisi footer dengan html entity</li>
 <li>mengisi about di selection</li>
+<li>merapikan halaman web</li>
+<li>menambahkan format emoji</li>
 </ol>
