@@ -13,4 +13,5 @@ Hari ini, Rabu 8 oktober 2025, saya belajar:
     <li>styling selector about elemen strong</li>
     <li>styling selector about mode responsif</li>
     <li>styling id section#contact</li>
+    <li>section#contact groups selector h2</li>
 </ol>
