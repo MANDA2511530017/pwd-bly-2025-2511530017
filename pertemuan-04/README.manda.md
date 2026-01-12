@@ -6,4 +6,6 @@ Nama:Elmanda<br><br>
 Hari ini, Rabu 10 januari 2026, saya belajar:
 <ol>
     <li>copy paste isi index.html pertemuan-03 ke index html pertemuan-04</li>
+    <li>ganti internal css ke eksternal css</li>
+    <li>aturan css untuk body dan global reset</li>
 </ol>
