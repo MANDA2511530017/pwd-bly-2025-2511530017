@@ -12,5 +12,6 @@ Hari ini, Rabu 10 januari 2026, saya belajar:
     <li>styling section home</li>
     <li>styling footer</li>
     <li>styling navigasi</li>
+    <li>styling header mode mobile</li>
 
 </ol>
