@@ -127,6 +127,19 @@ transform: translateY(1px);
         
         @media (max-width: 600px) {
 
+        nav.active {
+                display: flex;
+        }
+        }
+
+        nav {
+                display: none;
+                flex-direction: column;
+                background: #085e32;
+                width: 100%;
+                padding: 5px 0;
+        }
+
         .menu-toggle {
                 display: block;
                 position: absolute;
