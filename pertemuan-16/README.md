@@ -21,5 +21,6 @@ Hari ini, Selasa 13 januari 2026, saya mengerjakan UAS:
     <li>mengisi logo</li>
     <li>membuat table pengunjung</li>
     <li>menambahkan javascript</li>
+    <li>menambahkan css</li>
 
 </ol>
